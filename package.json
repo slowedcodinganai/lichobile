@@ -86,7 +86,7 @@
         "d3-time": "1.0.7",
         "d3-time-format": "2.0.5",
         "date-fns": "2.14.0",
-        "lodash-es": "4.17.21",
+        "lodash-es": "4.17.23",
         "mithril": "github:veloce/mithril.js#next",
         "rlite-router": "1.1.3",
         "signals": "1.0.0"
